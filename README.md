@@ -1,2 +1,2 @@
 # RPi_Temperature_Humidity
-SM Project
+https://www.hackster.io/teodorparfeni/smart-temperature-and-humidity-monitoring-5fbe10
